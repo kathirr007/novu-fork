@@ -1,6 +1,6 @@
 {
-  "name": "novuhq",
-  "private": true,
+  "name": "novuhq-fork",
+  "private": false,
   "packageManager": "pnpm@7.28.0",
   "scripts": {
     "bootstrap": "npm run setup:dev",
